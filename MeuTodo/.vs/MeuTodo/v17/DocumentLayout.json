@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Estudos\\API_ASP.NET_EF-Core_SQLite\\MeuTodo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|c:\\estudos\\api_asp.net_ef-core_sqlite\\meutodo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|c:\\estudos\\api_asp.net_ef-core_sqlite\\meutodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|c:\\estudos\\api_asp.net_ef-core_sqlite\\meutodo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|c:\\estudos\\api_asp.net_ef-core_sqlite\\meutodo\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|c:\\estudos\\api_asp.net_ef-core_sqlite\\meutodo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|c:\\estudos\\api_asp.net_ef-core_sqlite\\meutodo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|c:\\estudos\\api_asp.net_ef-core_sqlite\\meutodo\\migrations\\20240725025710_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|solutionrelative:migrations\\20240725025710_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|c:\\estudos\\api_asp.net_ef-core_sqlite\\meutodo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CB6EE16-BB0E-450B-8882-7F135C467292}|MeuTodo.csproj|c:\\estudos\\api_asp.net_ef-core_sqlite\\meutodo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,13 +86,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Estudos\\API_ASP.NET_EF-Core_SQLite\\MeuTodo\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Estudos\\API_ASP.NET_EF-Core_SQLite\\MeuTodo\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Controllers\\TodoController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAawBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:33:20.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Estudos\\API_ASP.NET_EF-Core_SQLite\\MeuTodo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Estudos\\API_ASP.NET_EF-Core_SQLite\\MeuTodo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T03:01:20.28Z",
               "EditorCaption": ""
@@ -101,13 +118,14 @@
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\Estudos\\API_ASP.NET_EF-Core_SQLite\\MeuTodo\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T03:00:22.964Z"
+              "WhenOpened": "2024-07-25T03:00:22.964Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Estudos\\API_ASP.NET_EF-Core_SQLite\\MeuTodo\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
@@ -115,7 +133,8 @@
               "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T02:57:24.607Z"
+              "WhenOpened": "2024-07-25T02:57:24.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,11 +146,12 @@
               "RelativeToolTip": "Migrations\\20240725025710_InitialCreation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T02:57:18.525Z"
+              "WhenOpened": "2024-07-25T02:57:18.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Estudos\\API_ASP.NET_EF-Core_SQLite\\MeuTodo\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -143,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Todo.cs",
               "DocumentMoniker": "C:\\Estudos\\API_ASP.NET_EF-Core_SQLite\\MeuTodo\\Models\\Todo.cs",
               "RelativeDocumentMoniker": "Models\\Todo.cs",
