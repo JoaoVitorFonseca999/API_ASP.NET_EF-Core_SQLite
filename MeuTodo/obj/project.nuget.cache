@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GgMRYuG1p5U=",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\API_ASP.NET_EF-Core_SQLite\\MeuTodo\\MeuTodo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://rerum.azurewebsites.net/smart.framework/nuget'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}
