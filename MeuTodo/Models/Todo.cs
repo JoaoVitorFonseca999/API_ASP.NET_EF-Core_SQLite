@@ -1,14 +1,21 @@
 ﻿using System;
 
-/// <summary>
-/// Summary description for Class1
-/// </summary>
-public class Class1
+namespace MeuTodo.Models
 {
-	public Class1()
+	
+	public class Todo
 	{
-		//
-		// TODO: Add constructor logic here
-		//
+		public int Id { get; set; }
+		public string Title { get; set; }
+		public bool Done { get; set; }
+
+		public DateTime Date{ get; set; } = DateTime.Now;
+
+		public Todo()
+		{
+
+
+		}
 	}
+
 }

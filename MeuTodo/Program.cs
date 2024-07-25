@@ -13,6 +13,9 @@ namespace MeuTodo
     {
         public static void Main(string[] args)
         {
+            // Inicialize o SQLite
+            SQLitePCL.Batteries.Init();
+
             CreateHostBuilder(args).Build().Run();
         }
 
